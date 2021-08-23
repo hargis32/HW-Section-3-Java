@@ -8,7 +8,7 @@ This password generator was created as a practice for beginner Javascript techni
 
 *https://github.com/hargis32/HW-Section-3-JavaScript
 
-*[Live Page](https://hargis32.github.io/HW-Section-3-JavaScript/)
+*[Live Page](https://hargis32.github.io/HW-Section-3-Java/)
 
 **Screenshot**
 
